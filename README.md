@@ -1,5 +1,5 @@
 # ngPinchable
-An Angular directive for making HTML elements pinchable, zoomable, and panable using multi-touch gestures. Requires hammer.js
+An Angular 1 directive for making HTML elements pinchable, zoomable, and panable using multi-touch gestures. Requires hammer.js
 
 ##Usage:
 1.  Download and install hammer.js here: http://hammerjs.github.io/
